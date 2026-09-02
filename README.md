@@ -68,6 +68,3 @@ using real options and equity data:
 - **Downside scenarios** — bearish / high-volatility strategies referencing the 2008 crash
 
 ---
-
-> Coursework for ECO764 at IIT Kanpur. Shared for portfolio purposes — please follow your
-> institution's academic-integrity policy.
