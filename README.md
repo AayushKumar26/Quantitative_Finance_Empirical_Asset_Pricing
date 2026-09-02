@@ -1,6 +1,6 @@
 # Quantitative Finance & Empirical Asset Pricing
 
-**ECO764: Financial Econometrics** — Course Project
+**ECO764: Financial Econometrics** - Course Project
 
 Empirical financial-econometrics work in **Python** spanning stylized facts of asset
 returns, volatility modeling, factor investing, futures price discovery, arbitrage, and
